@@ -24,7 +24,7 @@ This Python program scans for nearby Wi-Fi networks, extracts their SSIDs, and m
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/username/repository-name.git
+   git clone https://github.com/Danialsamadi/rssi.git
    cd repository-name
    ```
 
